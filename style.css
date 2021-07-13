@@ -1,0 +1,16 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+
+
+
+#hand{
+  width:20px;
+  height:20px;
+}
