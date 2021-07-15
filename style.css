@@ -11,6 +11,17 @@ span
 
 
 #hand{
-  width:20px;
-  height:20px;
+  width:100px;
+  height:100px;
 }
+
+.snap{
+  text-align:center;
+  margin-left:320px;
+}
+
+#camera{
+  border: 7px solid darkgreen;
+  height:350px;
+  width:400px;
+  box-shadow:20px 20px 18px darkturquoise}
